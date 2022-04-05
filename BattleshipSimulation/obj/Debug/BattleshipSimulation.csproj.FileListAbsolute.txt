@@ -1,0 +1,7 @@
+C:\Users\barto\Desktop\BattleshipSimulation\BattleshipSimulation\bin\Debug\BattleshipSimulation.exe.config
+C:\Users\barto\Desktop\BattleshipSimulation\BattleshipSimulation\bin\Debug\BattleshipSimulation.exe
+C:\Users\barto\Desktop\BattleshipSimulation\BattleshipSimulation\bin\Debug\BattleshipSimulation.pdb
+C:\Users\barto\Desktop\BattleshipSimulation\BattleshipSimulation\obj\Debug\BattleshipSimulation.csproj.AssemblyReference.cache
+C:\Users\barto\Desktop\BattleshipSimulation\BattleshipSimulation\obj\Debug\BattleshipSimulation.csproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\BattleshipSimulation\BattleshipSimulation\obj\Debug\BattleshipSimulation.exe
+C:\Users\barto\Desktop\BattleshipSimulation\BattleshipSimulation\obj\Debug\BattleshipSimulation.pdb
